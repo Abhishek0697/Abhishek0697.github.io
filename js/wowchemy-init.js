@@ -48,7 +48,7 @@
 
   // ns-params:@params
   var wcDarkLightEnabled = true;
-  var wcIsSiteThemeDark = false;
+  var wcIsSiteThemeDark = true;
 
   // js/wowchemy-init.js
   window.wc = {
