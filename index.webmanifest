@@ -2,8 +2,8 @@
   "name": "Abhishek Das",
   "short_name": "Abhishek Das",
   "lang": "en-us",
-  "theme_color": "rgb(0, 136, 204)",
-  "background_color": "rgb(0, 136, 204)",
+  "theme_color": "#795548",
+  "background_color": "#795548",
   "icons": [{
     "src": "/images/icon_huda70e1342aff628be31008af0af48ae8_56930_192x192_fill_lanczos_center_2.PNG",
     "sizes": "192x192",
