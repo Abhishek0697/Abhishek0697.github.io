@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://Abhishek0697.github.io/sitemap.xml
