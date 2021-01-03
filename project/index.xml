@@ -5,12 +5,30 @@
     <link>https://Abhishek0697.github.io/project/</link>
       <atom:link href="https://Abhishek0697.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
       <title>Projects</title>
       <link>https://Abhishek0697.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Acoustic classification and localisation of sound sources for autonomous vehicles</title>
+      <link>https://Abhishek0697.github.io/project/acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-machine-learning/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-machine-learning/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;mlsp-project-poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EEG-Based Biometric Authentication for Brain Computer Interfaces</title>
+      <link>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;Poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>
@@ -26,29 +44,11 @@
     </item>
     
     <item>
-      <title>Acoustic classification and localisation of sound sources for autonomous vehicles</title>
-      <link>https://Abhishek0697.github.io/project/acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-machine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Abhishek0697.github.io/project/acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-machine-learning/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;mlsp-project-poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Detecting Hate Speech in Multi-modal Memes</title>
       <link>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</guid>
       <description>&lt;p&gt;Write here&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EEG-Based Biometric Authentication for Brain Computer Interfaces</title>
-      <link>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
