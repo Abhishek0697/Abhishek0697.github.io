@@ -5,12 +5,20 @@
     <link>https://Abhishek0697.github.io/post/</link>
       <atom:link href="https://Abhishek0697.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
       <title>Posts</title>
       <link>https://Abhishek0697.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Pytorch CNN Implementation on MNIST Dataset</title>
+      <link>https://Abhishek0697.github.io/post/pytorch-cnn-implementation-on-mnist-dataset/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/post/pytorch-cnn-implementation-on-mnist-dataset/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
