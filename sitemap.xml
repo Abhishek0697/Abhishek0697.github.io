@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc></loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Abhishek0697.github.io/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/categories/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/tag/ml/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/category/ml/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/post/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/post/predict-survival-on-the-titanic-challenge-in-matlab/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/tags/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,18 +58,8 @@
   </url>
   
   <url>
-    <loc>https://Abhishek0697.github.io/tags/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://Abhishek0697.github.io/project/user-de-identification-over-speech-and-dialogue-exchange/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-11T18:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,22 +83,7 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Abhishek0697.github.io/categories/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://Abhishek0697.github.io/category/deep-learning/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Abhishek0697.github.io/post/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,11 +99,6 @@
   
   <url>
     <loc>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Abhishek0697.github.io/tag/ml/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
