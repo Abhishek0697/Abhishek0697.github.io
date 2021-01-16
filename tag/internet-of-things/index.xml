@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IoT | Abhishek Das</title>
-    <link>https://Abhishek0697.github.io/tag/iot/</link>
-      <atom:link href="https://Abhishek0697.github.io/tag/iot/index.xml" rel="self" type="application/rss+xml" />
-    <description>IoT</description>
+    <title>Internet of Things | Abhishek Das</title>
+    <link>https://Abhishek0697.github.io/tag/internet-of-things/</link>
+      <atom:link href="https://Abhishek0697.github.io/tag/internet-of-things/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internet of Things</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright>
     <image>
       <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
-      <title>IoT</title>
-      <link>https://Abhishek0697.github.io/tag/iot/</link>
+      <title>Internet of Things</title>
+      <link>https://Abhishek0697.github.io/tag/internet-of-things/</link>
     </image>
     
     <item>
@@ -33,7 +33,14 @@
       <link>https://Abhishek0697.github.io/project/smart-refrigerator-using-iot-and-android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Abhishek0697.github.io/project/smart-refrigerator-using-iot-and-android/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;view-on-githubhttpsgithubcomabhishek0697iot_refrigerator&#34;&gt;View on &lt;a href=&#34;https://github.com/Abhishek0697/IoT_Refrigerator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;in-the-news&#34;&gt;In the News&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This project was featured in the &lt;a href=&#34;https://maharashtratimes.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maharashtra Times&lt;/a&gt;, a Marathi newspaper based in Mumbai, India on 21st April 2018.&lt;/li&gt;
+&lt;li&gt;It was also selected for display at &lt;a href=&#34;https://tedxgateway.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TEDx Gateway&lt;/a&gt; Conference in Mumbai, November 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;toi.jpeg&#34; alt=&#34;drawing&#34; width=&#34;500&#34;/&gt;
+</description>
     </item>
     
   </channel>
