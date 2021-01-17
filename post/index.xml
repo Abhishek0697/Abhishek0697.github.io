@@ -5,12 +5,20 @@
     <link>https://Abhishek0697.github.io/post/</link>
       <atom:link href="https://Abhishek0697.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
       <title>Posts</title>
       <link>https://Abhishek0697.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>How to build a Convolutional Neural Network from scratch using tf.keras for Image Classification</title>
+      <link>https://Abhishek0697.github.io/post/how-to-build-a-convolutional-neural-network-from-scratch-using-tf.keras-for-image-classification/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/post/how-to-build-a-convolutional-neural-network-from-scratch-using-tf.keras-for-image-classification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predict survival on the Titanic challenge in MATLAB</title>
