@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>Technical Skills</title>
-      <link>https://Abhishek0697.github.io/myskills/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Abhishek0697.github.io/myskills/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Accomplishments</title>
       <link>https://Abhishek0697.github.io/myacc/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
@@ -33,6 +25,14 @@
       <link>https://Abhishek0697.github.io/mypublications/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://Abhishek0697.github.io/mypublications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://Abhishek0697.github.io/myskills/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/myskills/</guid>
       <description></description>
     </item>
     
