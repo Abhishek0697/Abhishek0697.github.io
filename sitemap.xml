@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://Abhishek0697.github.io/landing_publication/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -23,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://Abhishek0697.github.io/landing/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://Abhishek0697.github.io/post/how-to-build-a-convolutional-neural-network-from-scratch-using-tf.keras-for-image-classification/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -44,6 +44,11 @@
   
   <url>
     <loc>https://Abhishek0697.github.io/post/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/landing/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
