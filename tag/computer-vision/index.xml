@@ -17,7 +17,9 @@
       <link>https://Abhishek0697.github.io/project/augmented-reality-with-planar-homographies/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>https://Abhishek0697.github.io/project/augmented-reality-with-planar-homographies/</guid>
-      <description>&lt;h3 id=&#34;view-on-githubhttpsgithubcomabhishek0697computer-visiontreemainaugmented20reality20with20planar20homographies&#34;&gt;View on &lt;a href=&#34;https://github.com/Abhishek0697/Computer-Vision/tree/main/Augmented%20Reality%20with%20Planar%20Homographies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;creating-a-real-time-augmented-reality-application&#34;&gt;Creating a real-time Augmented Reality Application&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rendering video on a moving target
 
 
 
@@ -37,7 +39,11 @@
 
 &lt;video controls &gt;
   &lt;source src=&#34;ar_c.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I have tracked the book in each frame in the target video and overlayed each frame of the source video onto the book in the target video.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Source video
 
 
 
@@ -56,22 +62,20 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;ar_source.mov&#34; type=&#34;video/mov&#34;&gt;
-&lt;/video&gt;
+  &lt;source src=&#34;ar_source_c.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Target video
 
 
 
 
 
 
-  
-  
 
 
 
-
-
-  
 
 
 
@@ -81,8 +85,11 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;https://Abhishek0697.github.io/media/ar.avi&#34; type=&#34;video/avi&#34;&gt;
-&lt;/video&gt;
+  &lt;source src=&#34;book_c.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;view-on-githubhttpsgithubcomabhishek0697computer-visiontreemainaugmented20reality20with20planar20homographies&#34;&gt;View on &lt;a href=&#34;https://github.com/Abhishek0697/Computer-Vision/tree/main/Augmented%20Reality%20with%20Planar%20Homographies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Acknowledgements - This project is done as a part of the course curriculum in 16-720:Computer Vision @ Carnegie Mellon University&lt;/p&gt;
 </description>
     </item>
     
