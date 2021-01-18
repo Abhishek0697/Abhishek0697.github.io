@@ -87,6 +87,58 @@
     </item>
     
     <item>
+      <title>Photometric Stereo</title>
+      <link>https://Abhishek0697.github.io/project/photometric-stereo/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/photometric-stereo/</guid>
+      <description>&lt;h4 id=&#34;rendering-n-dot-l-lighting-a-uniform-fully-reflective-lambertian-sphere&#34;&gt;Rendering n-dot-l lighting a uniform fully reflective Lambertian sphere&lt;/h4&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://Abhishek0697.github.io/project/photometric-stereo/ndotl_hu1021c8e86a002a3602af03760fb046ff_196751_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://Abhishek0697.github.io/project/photometric-stereo/ndotl_hu1021c8e86a002a3602af03760fb046ff_196751_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3209&#34; height=&#34;712&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Acknowledgements - This project is done as a part of the course curriculum in 16-720:Computer Vision @ Carnegie Mellon University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Augmented Reality with Planar Homographies</title>
       <link>https://Abhishek0697.github.io/project/augmented-reality-with-planar-homographies/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
