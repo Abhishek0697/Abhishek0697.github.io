@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myskills | Abhishek Das</title>
+    <link>https://Abhishek0697.github.io/myskills/</link>
+      <atom:link href="https://Abhishek0697.github.io/myskills/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myskills</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright>
+    <image>
+      <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
+      <title>Myskills</title>
+      <link>https://Abhishek0697.github.io/myskills/</link>
+    </image>
+    
+    <item>
+      <title>Technical Skills</title>
+      <link>https://Abhishek0697.github.io/myskills/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/myskills/skills/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
