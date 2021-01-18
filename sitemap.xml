@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Abhishek0697.github.io/landing_publication/</loc>
+    <loc>https://Abhishek0697.github.io/landing_publication/featured/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/mypublications/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +52,7 @@
   </url>
   
   <url>
-    <loc>https://Abhishek0697.github.io/landing/</loc>
+    <loc>https://Abhishek0697.github.io/myprojects/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -204,6 +208,10 @@
   
   <url>
     <loc>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Abhishek0697.github.io/landing_publication/</loc>
   </url>
   
   <url>
