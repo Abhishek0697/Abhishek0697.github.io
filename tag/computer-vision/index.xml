@@ -36,7 +36,7 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;ar.avi&#34; type=&#34;video/avi&#34;&gt;
+  &lt;source src=&#34;ar_c.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
 
