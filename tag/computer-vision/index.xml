@@ -36,7 +36,52 @@
 
 
 &lt;video controls &gt;
+  &lt;source src=&#34;ar.avi&#34; type=&#34;video/avi&#34;&gt;
+&lt;/video&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
   &lt;source src=&#34;ar_source.mov&#34; type=&#34;video/mov&#34;&gt;
+&lt;/video&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://Abhishek0697.github.io/media/ar.avi&#34; type=&#34;video/avi&#34;&gt;
 &lt;/video&gt;
 </description>
     </item>
