@@ -5,12 +5,25 @@
     <link>https://Abhishek0697.github.io/tag/deep-learning/</link>
       <atom:link href="https://Abhishek0697.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
       <title>Deep Learning</title>
       <link>https://Abhishek0697.github.io/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Detecting Hate Speech in Multi-modal Memes</title>
+      <link>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MpIFq9qXhc4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>User De-Identification over Speech/Dialogue exchange</title>
@@ -36,19 +49,6 @@
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://Abhishek0697.github.io/publication/siamese-manhattan-lstm-implementation-for-predicting-text-similarity-and-grading-of-student-test-papers/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting Hate Speech in Multi-modal Memes</title>
-      <link>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/MpIFq9qXhc4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
     </item>
     
     <item>
