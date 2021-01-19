@@ -62,58 +62,6 @@
   
   
   
-  
-    
-      
-      
-    
-  
-  
-  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Albedo Image&#34; href=&#34;https://Abhishek0697.github.io/media/albedolm.png&#34;&gt;
-    &lt;img src=&#34;https://Abhishek0697.github.io/media/albedolm.png&#34; alt=&#34;Albedo Image&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-      
-      
-    
-  
-  
-  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Normal Image&#34; href=&#34;https://Abhishek0697.github.io/media/normallm.png&#34;&gt;
-    &lt;img src=&#34;https://Abhishek0697.github.io/media/normallm.png&#34; alt=&#34;Normal Image&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-      
-      
-    
-  
-  
-  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;featured Image&#34; href=&#34;https://Abhishek0697.github.io/media/featured.png&#34;&gt;
-    &lt;img src=&#34;https://Abhishek0697.github.io/media/featured.png&#34; alt=&#34;featured Image&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-      
-      
-    
-  
-  
-  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Uncalibrated Normal Image&#34; href=&#34;https://Abhishek0697.github.io/media/uncal_normal.png&#34;&gt;
-    &lt;img src=&#34;https://Abhishek0697.github.io/media/uncal_normal.png&#34; alt=&#34;Uncalibrated Normal Image&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
 &lt;/div&gt;
 &lt;h4 id=&#34;rendering-n-dot-l-lighting-for-a-uniform-fully-reflective-lambertian-sphere&#34;&gt;Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere&lt;/h4&gt;
 
