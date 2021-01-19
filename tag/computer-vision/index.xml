@@ -103,8 +103,8 @@
       <guid>https://Abhishek0697.github.io/project/photometric-stereo/</guid>
       <description>&lt;h4 id=&#34;what-we-did&#34;&gt;What we did&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Estimate Pseudonormals, and visualize the Albedo, Normal images and Shape of the face&lt;/li&gt;
-&lt;li&gt;Understanding and Rendering n-dot-l Lighting&lt;/li&gt;
+&lt;li&gt;Estimated Pseudonormals, and visualized the Albedo, Normal images and Shape of the face&lt;/li&gt;
+&lt;li&gt;Understanding and Rendering of n-dot-l Lighting&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
 &lt;blockquote&gt;
@@ -165,8 +165,8 @@
     
   
   
-  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 1, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmap_uncalib_1.png&#34;&gt;
-    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmap_uncalib_1.png&#34; alt=&#34;Depthmap View 1, visualized with Axes3D object in Matplotlib&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 1, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmapuncalib1.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmapuncalib1.png&#34; alt=&#34;Depthmap View 1, visualized with Axes3D object in Matplotlib&#34;&gt;
   &lt;/a&gt;
   
   
@@ -178,8 +178,8 @@
     
   
   
-  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 2, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmap_uncalib_2.png&#34;&gt;
-    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmap_uncalib_2.png&#34; alt=&#34;Depthmap View 2, visualized with Axes3D object in Matplotlib&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 2, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmapuncalib2.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmapuncalib2.png&#34; alt=&#34;Depthmap View 2, visualized with Axes3D object in Matplotlib&#34;&gt;
   &lt;/a&gt;
   
   
@@ -191,8 +191,8 @@
     
   
   
-  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 3, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmap_uncalib_3.png&#34;&gt;
-    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmap_uncalib_3.png&#34; alt=&#34;Depthmap View 3, visualized with Axes3D object in Matplotlib&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 3, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmapuncalib3.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmapuncalib3.png&#34; alt=&#34;Depthmap View 3, visualized with Axes3D object in Matplotlib&#34;&gt;
   &lt;/a&gt;
   
   
@@ -204,8 +204,8 @@
     
   
   
-  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 4, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmap_uncalib_4.png&#34;&gt;
-    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmap_uncalib_4.png&#34; alt=&#34;Depthmap View 4, visualized with Axes3D object in Matplotlib&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 4, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmapuncalib4.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmapuncalib4.png&#34; alt=&#34;Depthmap View 4, visualized with Axes3D object in Matplotlib&#34;&gt;
   &lt;/a&gt;
   
   
