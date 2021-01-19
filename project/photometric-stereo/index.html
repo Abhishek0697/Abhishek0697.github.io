@@ -247,6 +247,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-187679459-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-187679459-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -847,8 +885,8 @@
     
   
   
-  <a data-fancybox="gallery-&lt;Photometric Stereo&gt;" data-caption="Depthmap View 1, visualized with Axes3D object in Matplotlib" href="/media/depthmapuncalib1.png">
-    <img src="/media/depthmapuncalib1.png" alt="Depthmap View 1, visualized with Axes3D object in Matplotlib">
+  <a data-fancybox="gallery-&lt;Photometric Stereo&gt;" data-caption="Depthmap View 1, visualized with Axes3D object in Matplotlib" href="/media/depthmapuncalibone.png">
+    <img src="/media/depthmapuncalibone.png" alt="Depthmap View 1, visualized with Axes3D object in Matplotlib">
   </a>
   
   
@@ -860,8 +898,8 @@
     
   
   
-  <a data-fancybox="gallery-&lt;Photometric Stereo&gt;" data-caption="Depthmap View 2, visualized with Axes3D object in Matplotlib" href="/media/depthmapuncalib2.png">
-    <img src="/media/depthmapuncalib2.png" alt="Depthmap View 2, visualized with Axes3D object in Matplotlib">
+  <a data-fancybox="gallery-&lt;Photometric Stereo&gt;" data-caption="Depthmap View 2, visualized with Axes3D object in Matplotlib" href="/media/depthmapuncalibtwo.png">
+    <img src="/media/depthmapuncalibtwo.png" alt="Depthmap View 2, visualized with Axes3D object in Matplotlib">
   </a>
   
   
@@ -873,8 +911,8 @@
     
   
   
-  <a data-fancybox="gallery-&lt;Photometric Stereo&gt;" data-caption="Depthmap View 3, visualized with Axes3D object in Matplotlib" href="/media/depthmapuncalib3.png">
-    <img src="/media/depthmapuncalib3.png" alt="Depthmap View 3, visualized with Axes3D object in Matplotlib">
+  <a data-fancybox="gallery-&lt;Photometric Stereo&gt;" data-caption="Depthmap View 3, visualized with Axes3D object in Matplotlib" href="/media/depthmapuncalibthree.png">
+    <img src="/media/depthmapuncalibthree.png" alt="Depthmap View 3, visualized with Axes3D object in Matplotlib">
   </a>
   
   
@@ -886,8 +924,8 @@
     
   
   
-  <a data-fancybox="gallery-&lt;Photometric Stereo&gt;" data-caption="Depthmap View 4, visualized with Axes3D object in Matplotlib" href="/media/depthmapuncalib4.png">
-    <img src="/media/depthmapuncalib4.png" alt="Depthmap View 4, visualized with Axes3D object in Matplotlib">
+  <a data-fancybox="gallery-&lt;Photometric Stereo&gt;" data-caption="Depthmap View 4, visualized with Axes3D object in Matplotlib" href="/media/depthmapuncalibfour.png">
+    <img src="/media/depthmapuncalibfour.png" alt="Depthmap View 4, visualized with Axes3D object in Matplotlib">
   </a>
   
   
