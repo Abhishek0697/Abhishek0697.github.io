@@ -17,7 +17,7 @@
       <link>https://Abhishek0697.github.io/project/photometric-stereo/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       <guid>https://Abhishek0697.github.io/project/photometric-stereo/</guid>
-      <description>&lt;h4 id=&#34;rendering-n-dot-l-lighting-a-uniform-fully-reflective-lambertian-sphere&#34;&gt;Rendering n-dot-l lighting a uniform fully reflective Lambertian sphere&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;rendering-n-dot-l-lighting-for-a-uniform-fully-reflective-lambertian-sphere&#34;&gt;Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere&lt;/h4&gt;
 
 
 
@@ -41,20 +41,20 @@
 
 
 
-&lt;figure id=&#34;figure-a-caption&#34;&gt;
+&lt;figure id=&#34;figure-rendered-images-for-3-different-light-sources&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://Abhishek0697.github.io/project/photometric-stereo/ndotl_hu1021c8e86a002a3602af03760fb046ff_196751_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://Abhishek0697.github.io/project/photometric-stereo/ndotl_hu3b7ac7be2fa7758741ea257944837d2a_179265_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Rendered images for 3 different light sources&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://Abhishek0697.github.io/project/photometric-stereo/ndotl_hu1021c8e86a002a3602af03760fb046ff_196751_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3209&#34; height=&#34;712&#34;&gt;
+  &lt;img data-src=&#34;https://Abhishek0697.github.io/project/photometric-stereo/ndotl_hu3b7ac7be2fa7758741ea257944837d2a_179265_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3209&#34; height=&#34;612&#34;&gt;
 &lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    A caption
+    Rendered images for 3 different light sources
   &lt;/figcaption&gt;
 
 
