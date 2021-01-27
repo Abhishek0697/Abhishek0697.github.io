@@ -107,8 +107,7 @@
 &lt;li&gt;Understanding and Rendering of n-dot-l Lighting&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Image gallery
+&lt;h3 id=&#34;image-gallery&#34;&gt;Image gallery&lt;/h3&gt;
 
 
 
@@ -210,8 +209,7 @@
   
   
   
-&lt;/div&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;/div&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;h4 id=&#34;rendering-n-dot-l-lighting-for-a-uniform-fully-reflective-lambertian-sphere&#34;&gt;Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere&lt;/h4&gt;
