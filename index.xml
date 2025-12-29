@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishek Das</title>
+    <link>https://Abhishek0697.github.io/</link>
+      <atom:link href="https://Abhishek0697.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abhishek Das</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
+      <title>Abhishek Das</title>
+      <link>https://Abhishek0697.github.io/</link>
+    </image>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://Abhishek0697.github.io/about/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplishments</title>
+      <link>https://Abhishek0697.github.io/myacc/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/myacc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to build a Convolutional Neural Network from scratch using tf.keras for Image Classification</title>
+      <link>https://Abhishek0697.github.io/post/how-to-build-a-convolutional-neural-network-from-scratch-using-tf.keras-for-image-classification/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/post/how-to-build-a-convolutional-neural-network-from-scratch-using-tf.keras-for-image-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://Abhishek0697.github.io/myprojects/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/myprojects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predict survival on the Titanic challenge in MATLAB</title>
+      <link>https://Abhishek0697.github.io/post/predict-survival-on-the-titanic-challenge-in-matlab/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/post/predict-survival-on-the-titanic-challenge-in-matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Hate Speech in Multi-modal Memes</title>
+      <link>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MpIFq9qXhc4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>User De-Identification over Speech/Dialogue exchange</title>
+      <link>https://Abhishek0697.github.io/project/user-de-identification-over-speech-and-dialogue-exchange/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/user-de-identification-over-speech-and-dialogue-exchange/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSmbP3wfqOAAUOv5o5pFGcoFgmy_LlJZwxM_B8v_fAY91i1_DvEY_BaRZ8hqk8qgez8Iq_lyEJEdESH/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;720&#34; height=&#34;1280&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Ideas for the Facebook Hateful Memes Challenge</title>
+      <link>https://Abhishek0697.github.io/talk/facebook-hateful-memes-challenge/</link>
+      <pubDate>Fri, 11 Dec 2020 18:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/talk/facebook-hateful-memes-challenge/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQPj6tRkmuUFDkVpe62UL1TPf9belHfbZwkItkbiOsKcX3YqOCnnvnvUryPjwbksbqvdfd8088YyZS9/embed?start=false&amp;loop=true&amp;delayms=6000&#34; frameborder=&#34;0&#34; width=&#34;720&#34; height=&#34;405&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality with Planar Homographies</title>
+      <link>https://Abhishek0697.github.io/project/augmented-reality-with-planar-homographies/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/augmented-reality-with-planar-homographies/</guid>
+      <description>&lt;h2 id=&#34;creating-a-real-time-augmented-reality-application&#34;&gt;Creating a real-time Augmented Reality Application&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rendering video on a moving target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;ar_c.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I have tracked the book in each frame in the target video and overlayed each frame of the source video onto the book in the target video.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Source video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;ar_source_c.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Target video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;book_c.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Acknowledgements - This project is done as a part of the course curriculum in 16-720:Computer Vision @ Carnegie Mellon University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pytorch CNN Implementation on MNIST Dataset</title>
+      <link>https://Abhishek0697.github.io/post/pytorch-cnn-implementation-on-mnist-dataset/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/post/pytorch-cnn-implementation-on-mnist-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photometric Stereo</title>
+      <link>https://Abhishek0697.github.io/project/photometric-stereo/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/photometric-stereo/</guid>
+      <description>&lt;h4 id=&#34;what-we-did&#34;&gt;What we did&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimated Pseudonormals, and visualized the Albedo, Normal images and Shape of the face&lt;/li&gt;
+&lt;li&gt;Understanding and Rendering of n-dot-l Lighting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;image-gallery&#34;&gt;Image gallery&lt;/h3&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+      
+      
+    
+  
+  
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Albedo Image, visualized with colormap &amp;amp;lsquo;gray&amp;amp;rsquo;&#34; href=&#34;https://Abhishek0697.github.io/media/albedoIm.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/albedoIm.png&#34; alt=&#34;Albedo Image, visualized with colormap &amp;#39;gray&amp;#39;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+      
+    
+  
+  
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Normal Image, visualized with colormap &amp;amp;lsquo;rainbow&amp;amp;rsquo;&#34; href=&#34;https://Abhishek0697.github.io/media/normalIm.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/normalIm.png&#34; alt=&#34;Normal Image, visualized with colormap &amp;#39;rainbow&amp;#39;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+      
+    
+  
+  
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 1, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmapuncalibone.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmapuncalibone.png&#34; alt=&#34;Depthmap View 1, visualized with Axes3D object in Matplotlib&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+      
+    
+  
+  
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 2, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmapuncalibtwo.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmapuncalibtwo.png&#34; alt=&#34;Depthmap View 2, visualized with Axes3D object in Matplotlib&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+      
+    
+  
+  
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 3, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmapuncalibthree.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmapuncalibthree.png&#34; alt=&#34;Depthmap View 3, visualized with Axes3D object in Matplotlib&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+      
+    
+  
+  
+  &lt;a data-fancybox=&#34;gallery-&amp;lt;Photometric Stereo&amp;gt;&#34; data-caption=&#34;Depthmap View 4, visualized with Axes3D object in Matplotlib&#34; href=&#34;https://Abhishek0697.github.io/media/depthmapuncalibfour.png&#34;&gt;
+    &lt;img src=&#34;https://Abhishek0697.github.io/media/depthmapuncalibfour.png&#34; alt=&#34;Depthmap View 4, visualized with Axes3D object in Matplotlib&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;rendering-n-dot-l-lighting-for-a-uniform-fully-reflective-lambertian-sphere&#34;&gt;Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere&lt;/h4&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-rendered-images-for-3-different-light-sources&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://Abhishek0697.github.io/project/photometric-stereo/ndotl_hu3b7ac7be2fa7758741ea257944837d2a_179265_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Rendered images for 3 different light sources&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://Abhishek0697.github.io/project/photometric-stereo/ndotl_hu3b7ac7be2fa7758741ea257944837d2a_179265_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3209&#34; height=&#34;612&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Rendered images for 3 different light sources
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+Acknowledgements - This project is done as a part of the course curriculum in 16-720:Computer Vision @ Carnegie Mellon University
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Image Steganography Using Deep Neural Networks</title>
+      <link>https://Abhishek0697.github.io/project/multi-image-steganography-using-deep-neural-networks/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/multi-image-steganography-using-deep-neural-networks/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Sb-Df9QW0sM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic classification and localisation of sound sources for autonomous vehicles</title>
+      <link>https://Abhishek0697.github.io/project/acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-machine-learning/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-machine-learning/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;mlsp-project-poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EEG-Based Biometric Authentication for Brain Computer Interfaces</title>
+      <link>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;Poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siamese Manhattan LSTM Implementation for Predicting Text Similarity and Grading of Student Test Papers</title>
+      <link>https://Abhishek0697.github.io/publication/siamese-manhattan-lstm-implementation-for-predicting-text-similarity-and-grading-of-student-test-papers/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/publication/siamese-manhattan-lstm-implementation-for-predicting-text-similarity-and-grading-of-student-test-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of Performance of an OFDM Transceiver Using SDR Platform</title>
+      <link>https://Abhishek0697.github.io/publication/study-of-performance-of-an-ofdm-transceiver-using-sdr-platform/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/publication/study-of-performance-of-an-ofdm-transceiver-using-sdr-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://Abhishek0697.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Refrigerator using IoT and Android</title>
+      <link>https://Abhishek0697.github.io/project/smart-refrigerator-using-iot-and-android/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/smart-refrigerator-using-iot-and-android/</guid>
+      <description>&lt;h3 id=&#34;view-on-githubhttpsgithubcomabhishek0697iot_refrigerator&#34;&gt;View on &lt;a href=&#34;https://github.com/Abhishek0697/IoT_Refrigerator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;in-the-news&#34;&gt;In the News&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This project was featured in the &lt;a href=&#34;https://maharashtratimes.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maharashtra Times&lt;/a&gt;, a Marathi newspaper based in Mumbai, India on 21st April 2018.&lt;/li&gt;
+&lt;li&gt;It was also selected for display at &lt;a href=&#34;https://tedxgateway.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TEDx Gateway&lt;/a&gt; Conference in Mumbai, November 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;toi.jpeg&#34; alt=&#34;drawing&#34; width=&#34;500&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rain Sensing Automatic Car Wiper using AT89C51 Microcontroller</title>
+      <link>https://Abhishek0697.github.io/project/rain-sensing-automatic-car-wiper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/rain-sensing-automatic-car-wiper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Car Features using Embedded Systems and IoT</title>
+      <link>https://Abhishek0697.github.io/project/iot_smartcar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/iot_smartcar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

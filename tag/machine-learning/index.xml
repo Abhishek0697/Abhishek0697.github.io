@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Abhishek Das</title>
+    <link>https://Abhishek0697.github.io/tag/machine-learning/</link>
+      <atom:link href="https://Abhishek0697.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
+      <title>Machine Learning</title>
+      <link>https://Abhishek0697.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Predict survival on the Titanic challenge in MATLAB</title>
+      <link>https://Abhishek0697.github.io/post/predict-survival-on-the-titanic-challenge-in-matlab/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/post/predict-survival-on-the-titanic-challenge-in-matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic classification and localisation of sound sources for autonomous vehicles</title>
+      <link>https://Abhishek0697.github.io/project/acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-machine-learning/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-machine-learning/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;mlsp-project-poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EEG-Based Biometric Authentication for Brain Computer Interfaces</title>
+      <link>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/eeg-based-biometric-authentication-for-brain-computer-interfaces/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;Poster.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

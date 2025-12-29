@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Abhishek Das</title>
+    <link>https://Abhishek0697.github.io/tag/deep-learning/</link>
+      <atom:link href="https://Abhishek0697.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Abhishek Das</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Abhishek0697.github.io/media/my-picture.jpg</url>
+      <title>Deep Learning</title>
+      <link>https://Abhishek0697.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Hate Speech in Multi-modal Memes</title>
+      <link>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/detecting-hate-speech-in-multi-modal-memes/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MpIFq9qXhc4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>User De-Identification over Speech/Dialogue exchange</title>
+      <link>https://Abhishek0697.github.io/project/user-de-identification-over-speech-and-dialogue-exchange/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/user-de-identification-over-speech-and-dialogue-exchange/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSmbP3wfqOAAUOv5o5pFGcoFgmy_LlJZwxM_B8v_fAY91i1_DvEY_BaRZ8hqk8qgez8Iq_lyEJEdESH/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;720&#34; height=&#34;1280&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Ideas for the Facebook Hateful Memes Challenge</title>
+      <link>https://Abhishek0697.github.io/talk/facebook-hateful-memes-challenge/</link>
+      <pubDate>Fri, 11 Dec 2020 18:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/talk/facebook-hateful-memes-challenge/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQPj6tRkmuUFDkVpe62UL1TPf9belHfbZwkItkbiOsKcX3YqOCnnvnvUryPjwbksbqvdfd8088YyZS9/embed?start=false&amp;loop=true&amp;delayms=6000&#34; frameborder=&#34;0&#34; width=&#34;720&#34; height=&#34;405&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Image Steganography Using Deep Neural Networks</title>
+      <link>https://Abhishek0697.github.io/project/multi-image-steganography-using-deep-neural-networks/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/project/multi-image-steganography-using-deep-neural-networks/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Sb-Df9QW0sM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Siamese Manhattan LSTM Implementation for Predicting Text Similarity and Grading of Student Test Papers</title>
+      <link>https://Abhishek0697.github.io/publication/siamese-manhattan-lstm-implementation-for-predicting-text-similarity-and-grading-of-student-test-papers/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://Abhishek0697.github.io/publication/siamese-manhattan-lstm-implementation-for-predicting-text-similarity-and-grading-of-student-test-papers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
